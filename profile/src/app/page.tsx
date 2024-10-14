@@ -8,9 +8,10 @@ export default function Home() {
 <h1>about</h1>
 <span>Takoyaki</span>
 <span>WebDeveloper / InfrastructureEngineer</span><br />
-<span>外はカリッと、中はトロッと。そんなたこ焼きのようにバランスの取れた開発者を目指しています。 </span>
+<span>外はカリッと、中はトロッと。そんなたこ焼きのようにバランスの取れた開発者を目指しています。🐈 </span>
 <h1>Works</h1>
 <h1>contact</h1>
+<h1>skills</h1>
 <Link href="https://github.com/takoyaki-neonz-net">
   Github
   {/* アイコンはSVG を使う */}
