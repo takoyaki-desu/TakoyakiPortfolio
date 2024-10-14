@@ -16,3 +16,6 @@ npm run dev
 5.faviconをいじる
 
 6.
+
+https://szn.jp/
+をパクる
