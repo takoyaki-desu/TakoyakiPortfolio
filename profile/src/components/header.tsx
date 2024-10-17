@@ -8,7 +8,11 @@ export default function Header() {
         takoyaki-logo
         </Link>
         <Link href="/" className="ml-4 text-xl font-logo text-right">
-        light-logo
+        About
+        {/* アイコンはSVG を使う,animation */}
+        </Link>
+        <Link href="/" className="ml-4 text-xl font-logo text-right">
+        Works
         {/* アイコンはSVG を使う,animation */}
         </Link>
       </h1>

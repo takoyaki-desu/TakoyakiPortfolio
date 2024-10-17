@@ -4,3 +4,7 @@
 
 https://szn.jp/
 https://riya.monster/
+
+
+favicon使用元
+https://owl-stock.work/icon-mono-01213/

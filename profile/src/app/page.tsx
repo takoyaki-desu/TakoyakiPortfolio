@@ -2,16 +2,13 @@ import Link from "next/link"
 export default function Home() {
   return (
 <>
-<span>Hello</span>
-<span>Im&apos;Takoyaki.</span><br />
+<span>Takoyaki.</span>
 {/* 何回も書き直すアニメーションをつける (Framer-motion)*/}
+<div className="About">
 <h1>about</h1>
 <span>Takoyaki</span>
 <span>WebDeveloper / InfrastructureEngineer</span><br />
-<span>外はカリッと、中はトロッと。そんなたこ焼きのようにバランスの取れた開発者を目指しています。</span>
-<h1>Works</h1>
-<h1>contact</h1>
-<h1>skills</h1>
+<span>外はカリッと、中はトロッと。そんなたこ焼きのようにバランスの取れた開発者を目指しています。</span><br />
 <Link href="https://github.com/takoyaki-neonz-net">
   Github
   {/* アイコンはSVG を使う */}
@@ -20,6 +17,12 @@ export default function Home() {
   X
   {/* アイコンはSVG を使う */}
 </Link>
+</div>
+<Link href="/">もっと知りたい / Explore further</Link>
+<h1>Works</h1>
+<Link href="/">もっと見たい / See more</Link>
+<h1>contact</h1>
+{/* フォームを追加する*/}
     </>
   );
 }
