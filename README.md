@@ -1,5 +1,8 @@
 # Profile
 # This project is under development
+公開先サイト
+https/takoyaki.pkopko.jp
+
 参考にしたサイト
 
 https://szn.jp/
