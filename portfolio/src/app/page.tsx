@@ -3,6 +3,7 @@ export default function Home() {
   return (
 <>
   {/*svg*/}
+   {/* Github・XはアイコンはSVG を使う */}
 <div className="About">
 <h1 className="text-xl underline decoration-solid decoration-4" >About Me</h1>
 <span>Takoyaki.</span>
@@ -11,11 +12,9 @@ export default function Home() {
 <span>外はカリッと、中はトロッと。そんなたこ焼きのようにバランスの取れた開発者を目指しています。</span><br />
 <Link href="https://github.com/takoyaki-neonz-net">
   Github
-  {/* アイコンはSVG を使う */}
 </Link> 
 <Link href="https://x.com/takoyaki_neonz">
   X
-  {/* アイコンはSVG を使う */}
 </Link>
 <Link href="/">もっと知りたい / Explore further</Link>
 </div>
